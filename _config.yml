@@ -1,0 +1,28 @@
+name: moesewco.com
+favicon: null
+layout_spectrum: 0.3986749954055995
+typography_spectrum: 0.22278260067105293
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8028072018641979
+  lightness: 0.46252613491378725
+  saturation: 0.5360521711409092
+  rhythmicContrast: 0.9511588721070439
+purpose: []
